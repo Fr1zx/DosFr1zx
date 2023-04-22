@@ -1,0 +1,9 @@
+apt update 
+apt upgrade 
+pkg instal git  
+python -m ensurepip --default-pip 
+pkg install python 
+pip install colorama 
+git clone https://github.com/Fr1zx/SpamGmailFr1zx.git
+cd SpamGmailFr1zx
+python spamgmailfr1zx.py

@@ -41,7 +41,7 @@ Install the required packages:
 
 python -m ensurepip --default-pip
 
-pip install -r requirements.txt
+pip install  requirements.txt
 
 
 Run the tool:

@@ -1,4 +1,5 @@
 DosFr1zx
+![Image alt](https://github.com/Fr1zx/DosFr1zx/blob/main/termux.jpeg)
 Introduction
 
 DosFr1zx is a Denial of Service (DoS) tool written in Python that sends a large number of HTTP requests to a target web server to overload it and make it unavailable 
@@ -27,8 +28,6 @@ To use DosFr1zx, follow these steps:
 Clone the repository:
 
 
-
-
 git clone https://github.com/Fr1zx/DosFr1zx.git
 
 
@@ -40,8 +39,7 @@ cd DosFr1zx
 
 Install the required packages:
 
-
-
+python -m ensurepip --default-pip
 
 pip install -r requirements.txt
 

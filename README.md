@@ -24,6 +24,7 @@ pip install -r requirements.txt
 Usage
 
 To use DosFr1zx, follow these steps:
+pkg install git
 
 Clone the repository:
 
@@ -36,12 +37,13 @@ Navigate to the project directory:
 
 cd DosFr1zx
 
+pkg install python
 
 Install the required packages:
 
 python -m ensurepip --default-pip
 
-pip install  requirements.txt
+pip install -r requirements.txt
 
 
 Run the tool:
